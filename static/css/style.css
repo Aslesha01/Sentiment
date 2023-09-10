@@ -1,0 +1,18 @@
+.icon-block {
+    padding: 0 15px;
+    display: flex;
+    width: 200px;
+    margin-left: auto;
+}
+
+.icon-block .large material-icons {
+    font-size: 1.5rem;
+    align-content: center;
+}
+
+.bg-logo {
+    background: url("../static/sentiment-analysis.png");
+    background-size: 100% 100%;
+    height: 300px;
+    background-size: cover;
+}
